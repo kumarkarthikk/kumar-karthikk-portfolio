@@ -13,5 +13,24 @@ Modern responsive portfolio website built using HTML, CSS and JavaScript.
 - CSS
 - JavaScript
 
+## Project Structure
+
+```plaintext
+portfolio/
+│
+├── index.html
+├── css/
+├── js/
+├── assets/
+└── README.md
+```
+
+## Future Improvements
+- Add animations
+- Add project showcase
+- Add responsive navbar
+- Add SEO optimization
+- Deploy using Vercel
+
 ## Author
 Kumar Karthikk
