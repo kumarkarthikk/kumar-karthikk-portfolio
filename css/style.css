@@ -86,3 +86,19 @@ nav a:hover{
     border-radius: 50%;
     border: 5px solid cyan;
 }
+
+.about{
+    padding: 100px 8%;
+}
+
+.about h1{
+    font-size: 3rem;
+    margin-bottom: 30px;
+    color: cyan;
+}
+
+.about p{
+    font-size: 1.2rem;
+    line-height: 2;
+    margin-bottom: 20px;
+}
