@@ -187,3 +187,9 @@ html{
         margin-top:15px;
     }
 }
+
+.skill-card{
+    padding:15px;
+    border-radius:10px;
+    border:1px solid cyan;
+}
