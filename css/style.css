@@ -146,3 +146,44 @@ html{
     margin:20px 0;
     border-radius:10px;
 }
+
+.contact{
+    padding:80px 8%;
+}
+
+.contact form{
+    display:flex;
+    flex-direction:column;
+    gap:15px;
+    max-width:600px;
+}
+
+.contact input,
+.contact textarea{
+    padding:12px;
+}
+
+@media(max-width:768px){
+
+    .navbar{
+        flex-direction:column;
+    }
+
+    .hero{
+        flex-direction:column;
+        text-align:center;
+    }
+
+    .hero-content{
+        width:100%;
+    }
+
+    .hero-image img{
+        width:220px;
+        margin-top:30px;
+    }
+
+    nav{
+        margin-top:15px;
+    }
+}
