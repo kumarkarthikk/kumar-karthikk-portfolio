@@ -293,3 +293,67 @@ nav a:hover{
     background-color:cyan;
     color:black;
 }
+
+/* ABOUT PAGE */
+
+.about{
+    padding:80px 10%;
+    text-align:center;
+}
+
+.about h1{
+    color:cyan;
+    margin-bottom:25px;
+    font-size:3rem;
+}
+
+.about-intro{
+    font-size:1.5rem;
+    font-weight:bold;
+    margin-bottom:20px;
+}
+
+.about p{
+    max-width:800px;
+    margin:15px auto;
+    line-height:1.8;
+}
+
+/* QUICK FACTS */
+
+.facts{
+    padding:40px 10%;
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
+    gap:20px;
+}
+
+.fact-card{
+    border:1px solid #333;
+    border-radius:12px;
+    padding:25px;
+    text-align:center;
+}
+
+.fact-card h3{
+    font-size:2rem;
+    margin-bottom:10px;
+}
+
+/* CAREER GOAL */
+
+.goal{
+    padding:60px 10%;
+    text-align:center;
+}
+
+.goal h2{
+    color:cyan;
+    margin-bottom:20px;
+}
+
+.goal p{
+    max-width:700px;
+    margin:auto;
+    line-height:1.8;
+}
