@@ -358,3 +358,11 @@ nav a:hover{
 }
 
 
+
+/* ACTIVE NAVIGATION */
+
+nav a.active{
+    background-color: cyan;
+    color: black;
+    font-weight: bold;
+}
