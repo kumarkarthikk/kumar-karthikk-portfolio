@@ -358,18 +358,3 @@ nav a:hover{
 }
 
 
-.skills-preview{
-    padding:40px;
-}
-
-.skills-preview h2{
-    color:cyan;
-}
-
-.skill-card{
-    display:inline-block;
-    margin:10px;
-    padding:10px 20px;
-    border:1px solid cyan;
-    border-radius:8px;
-}
