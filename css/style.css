@@ -359,10 +359,8 @@ nav a:hover{
 
 
 
-/* ACTIVE NAVIGATION */
+/* FOOTER IMPROVEMENTS */
 
-nav a.active{
-    background-color: cyan;
-    color: black;
-    font-weight: bold;
+.footer p{
+    margin:5px 0;
 }
